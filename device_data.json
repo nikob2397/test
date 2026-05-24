@@ -1,0 +1,97 @@
+{
+  "account": {
+    "title": "Данные об аккаунте",
+    "data": {
+      "username": "@silents_89",
+      "account_id": "TK_8X4J2M9P1L7",
+      "registration_date": "15.03.2024",
+      "status": "Активен",
+      "followers": 15420,
+      "following": 342,
+      "likes": 89234,
+      "videos": 47
+    }
+  },
+  "device": {
+    "title": "Данные об устройстве",
+    "data": {
+      "platform": "Win32",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+      "device_model": "PC (Windows)",
+      "os_version": "Windows 10/11",
+      "browser": "Chrome",
+      "browser_version": "125.0.0.0",
+      "language": "ru-RU",
+      "languages": "ru-RU, en-US, en",
+      "screenResolution": "1920 x 1080",
+      "availScreen": "1920 x 1040",
+      "orientation": "landscape-primary",
+      "online": true,
+      "connectionType": "4g",
+      "downlink": "10 Mbps",
+      "rtt": "50 ms",
+      "saveData": false,
+      "deviceMemory": "8 GB",
+      "hardwareConcurrency": "8 ядер",
+      "touchSupport": "Нет",
+      "colorDepth": "24-bit",
+      "pixelRatio": 1,
+      "viewport": "1920 x 969",
+      "cookieEnabled": true,
+      "pdfViewerEnabled": true,
+      "webdriver": false,
+      "doNotTrack": "1",
+      "timezone": "Europe/Moscow",
+      "timezoneOffset": "+3 ч"
+    }
+  },
+  "location": {
+    "title": "Местоположение",
+    "data": {
+      "coordinates": "54.2966794, 40.1131744",
+      "city": "Истье",
+      "region": "Рязанская обл.",
+      "country": "Россия",
+      "country_code": "RU",
+      "accuracy": "20 м",
+      "ip": "185.16.135.61",
+      "provider": "MTS PJSC",
+      "last_update": "24.05.2026, 22:18:33"
+    }
+  },
+  "comments": {
+    "title": "Комментарии",
+    "data": {
+      "total_comments": 342,
+      "new_today": 12,
+      "replies": 89,
+      "comment_likes": 1567,
+      "comment_1": "Офигенное видео, продолжай в том же духе! 🔥",
+      "comment_2": "Как ты это делаешь? Уже 10 раз пересмотрел",
+      "comment_3": "Лучший контент в ленте сегодня",
+      "comment_4": "Подпишись на мой канал тоже плиз",
+      "comment_5": "Жду новых видео каждый день",
+      "author_1": "@fan_number_one",
+      "author_2": "@video_lover99",
+      "author_3": "@content_king",
+      "author_4": "@promo_guy_2024",
+      "author_5": "@daily_watcher",
+      "top_author": "@fan_number_one"
+    }
+  },
+  "activity": {
+    "title": "Последняя активность",
+    "data": {
+      "last_login": "24.05.2026, 18:45:33",
+      "activity_today": "Высокая",
+      "videos_watched": 47,
+      "likes_given": 123,
+      "comments_posted": 8,
+      "shares": 15,
+      "time_spent": "3 ч 42 мин",
+      "session_start": "24.05.2026, 19:15:00",
+      "current_time": "24.05.2026, 22:28:15",
+      "current_date": "24.05.2026"
+    }
+  }
+}
