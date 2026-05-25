@@ -1,0 +1,154 @@
+{
+  "dialogs": [
+    {
+      "id": 1,
+      "username": "@ar.grox3",
+      "name": "argrox3",
+      "avatar": "ava/1.png",
+      "last_message": "максима?",
+      "last_time": "10:42",
+      "unread": 2,
+      "online": false,
+      "messages": [
+        {
+          "sender": "me",
+          "text": "Привет! Да, сегодня вечером выложу",
+          "time": "10:30",
+          "read": true
+        },
+        {
+          "sender": "them",
+          "text": "Круто! Жду не дождусь",
+          "time": "10:31",
+          "read": true
+        },
+        {
+          "sender": "me",
+          "text": "Там будет про путешествие в Тбилиси",
+          "time": "10:32",
+          "read": true
+        },
+        {
+          "sender": "them",
+          "text": "Офигеть! Я как раз собираюсь туда",
+          "time": "10:33",
+          "read": true
+        },
+        {
+          "sender": "them",
+          "text": "Привет! Когда новое видео? 🔥",
+          "time": "10:42",
+          "read": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "username": "@user44217737",
+      "name": "oleg",
+      "avatar": "ava/2.png",
+      "last_message": "заходи заеьал",
+      "last_time": "Вчера",
+      "unread": 0,
+      "online": false,
+      "messages": [
+        {
+          "sender": "them",
+          "text": "заходи заеьал",
+          "time": "Вчера, 14:20",
+          "read": true
+        },
+        {
+          "sender": "me",
+          "text": "Привет! Берите LG UltraFine 4K, не пожалеете",
+          "time": "Вчера, 14:25",
+          "read": true
+        },
+        {
+          "sender": "them",
+          "text": "А по бюджетнее есть варианты?",
+          "time": "Вчера, 14:30",
+          "read": true
+        },
+        {
+          "sender": "me",
+          "text": "Xiaomi Mi Display 27 4K — отличный за свои деньги",
+          "time": "Вчера, 14:32",
+          "read": true
+        },
+        {
+          "sender": "them",
+          "text": "Спасибо за совет!",
+          "time": "Вчера, 14:35",
+          "read": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "username": "siistema_workaut",
+      "name": "siistema",
+      "avatar": "ava/3.png",
+      "last_message": "привет",
+      "last_time": "Вчера",
+      "unread": 1,
+      "online": false,
+      "messages": [
+        {
+          "sender": "them",
+          "text": "Привет! Видела твое новое видео",
+          "time": "Вчера, 09:15",
+          "read": true
+        },
+        {
+          "sender": "me",
+          "text": "Привет! Спасибо, как тебе?",
+          "time": "Вчера, 09:20",
+          "read": true
+        },
+        {
+          "sender": "them",
+          "text": "Твой танец взорвал ленту 😍",
+          "time": "Вчера, 09:22",
+          "read": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "username": "@u2_bro",
+      "name": "John Smith",
+      "avatar": "ava/4.png",
+      "last_message": "это труба",
+      "last_time": "Пн",
+      "unread": 0,
+      "online": false,
+      "messages": [
+        {
+          "sender": "me",
+          "text": "Зацени мой новый рецепт пасты",
+          "time": "Пн, 18:00",
+          "read": true
+        },
+        {
+          "sender": "them",
+          "text": "Ого, выглядит аппетитно!",
+          "time": "Пн, 18:05",
+          "read": true
+        },
+        {
+          "sender": "me",
+          "text": "Готовь, не пожалеешь",
+          "time": "Пн, 18:06",
+          "read": true
+        },
+        {
+          "sender": "them",
+          "text": "Рецепт просто бомба",
+          "time": "Пн, 18:10",
+          "read": true
+        }
+      ]
+    }
+  ]
+}
